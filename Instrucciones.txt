@@ -1,0 +1,3 @@
+Entrar en el termial y ejecutar:
+
+node dirJS/main.js
